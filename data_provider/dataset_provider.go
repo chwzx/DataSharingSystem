@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Dethanker/DataSharingSystem/data_management"
-	"github.com/Dethanker/DataSharingSystem/logging"
+	"github.com/chwzx/DataSharingSystem/data_management"
+	"github.com/chwzx/DataSharingSystem/logging"
 	"github.com/gorilla/websocket"
 	log "github.com/sirupsen/logrus"
 )

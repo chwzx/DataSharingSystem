@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Dethanker/DataSharingSystem/manager"
-	"github.com/Dethanker/DataSharingSystem/mpc_node"
+	"github.com/chwzx/DataSharingSystem/manager"
+	"github.com/chwzx/DataSharingSystem/mpc_node"
 )
 
 func TestRunNode(t *testing.T) {

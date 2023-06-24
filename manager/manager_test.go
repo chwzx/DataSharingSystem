@@ -11,15 +11,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Dethanker/DataSharingSystem/data_provider"
-	"github.com/Dethanker/DataSharingSystem/mpc_node"
+	"github.com/chwzx/DataSharingSystem/data_provider"
+	"github.com/chwzx/DataSharingSystem/mpc_node"
 
-	"github.com/Dethanker/DataSharingSystem/data_management"
-	"github.com/Dethanker/DataSharingSystem/manager"
+	"github.com/chwzx/DataSharingSystem/data_management"
+	"github.com/chwzx/DataSharingSystem/manager"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Dethanker/DataSharingSystem/key_management"
+	"github.com/chwzx/DataSharingSystem/key_management"
 )
 
 func TestRequestComputationWithManager(t *testing.T) {

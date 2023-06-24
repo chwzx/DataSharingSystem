@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Dethanker/DataSharingSystem/manager"
+	"github.com/chwzx/DataSharingSystem/manager"
 
-	"github.com/Dethanker/DataSharingSystem/data_provider"
+	"github.com/chwzx/DataSharingSystem/data_provider"
 )
 
 func TestRunDatasetProvider(t *testing.T) {

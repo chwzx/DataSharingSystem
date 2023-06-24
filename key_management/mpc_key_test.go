@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Dethanker/DataSharingSystem/key_management"
+	"github.com/chwzx/DataSharingSystem/key_management"
 	"github.com/stretchr/testify/assert"
 )
 

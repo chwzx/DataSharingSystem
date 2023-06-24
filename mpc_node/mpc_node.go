@@ -9,11 +9,11 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/Dethanker/DataSharingSystem/data_management"
-	"github.com/Dethanker/DataSharingSystem/key_management"
-	"github.com/Dethanker/DataSharingSystem/logging"
-	"github.com/Dethanker/DataSharingSystem/manager"
-	"github.com/Dethanker/DataSharingSystem/mpc_engine"
+	"github.com/chwzx/DataSharingSystem/data_management"
+	"github.com/chwzx/DataSharingSystem/key_management"
+	"github.com/chwzx/DataSharingSystem/logging"
+	"github.com/chwzx/DataSharingSystem/manager"
+	"github.com/chwzx/DataSharingSystem/mpc_engine"
 	"github.com/gorilla/websocket"
 	log "github.com/sirupsen/logrus"
 )

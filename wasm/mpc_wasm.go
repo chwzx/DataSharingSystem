@@ -8,8 +8,8 @@ import (
 	"strings"
 	"syscall/js"
 
-	"github.com/Dethanker/DataSharingSystem/data_management"
-	"github.com/Dethanker/DataSharingSystem/key_management"
+	"github.com/chwzx/DataSharingSystem/data_management"
+	"github.com/chwzx/DataSharingSystem/key_management"
 )
 
 func registerCallbacks() {

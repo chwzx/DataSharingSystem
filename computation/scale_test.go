@@ -8,7 +8,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/Dethanker/DataSharingSystem/computation"
+	"github.com/chwzx/DataSharingSystem/computation"
 )
 
 func TestInputPrepare(t *testing.T) {

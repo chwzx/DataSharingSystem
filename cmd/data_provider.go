@@ -3,8 +3,8 @@ package cmd
 import (
 	"strings"
 
-	"github.com/Dethanker/DataSharingSystem/config"
-	"github.com/Dethanker/DataSharingSystem/data_provider"
+	"github.com/chwzx/DataSharingSystem/config"
+	"github.com/chwzx/DataSharingSystem/data_provider"
 	"github.com/urfave/cli"
 )
 

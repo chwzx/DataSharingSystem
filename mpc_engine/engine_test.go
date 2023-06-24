@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Dethanker/DataSharingSystem/key_management"
+	"github.com/chwzx/DataSharingSystem/key_management"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/Dethanker/DataSharingSystem/data_management"
-	"github.com/Dethanker/DataSharingSystem/mpc_engine"
+	"github.com/chwzx/DataSharingSystem/data_management"
+	"github.com/chwzx/DataSharingSystem/mpc_engine"
 	"github.com/stretchr/testify/assert"
 )
 

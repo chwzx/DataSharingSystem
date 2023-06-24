@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Dethanker/DataSharingSystem/computation"
-	"github.com/Dethanker/DataSharingSystem/data_management"
+	"github.com/chwzx/DataSharingSystem/computation"
+	"github.com/chwzx/DataSharingSystem/data_management"
 	log "github.com/sirupsen/logrus"
 )
 

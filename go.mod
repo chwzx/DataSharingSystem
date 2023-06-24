@@ -1,4 +1,4 @@
-module github.com/Dethanker/DataSharingSystem
+module github.com/chwzx/DataSharingSystem
 
 go 1.17
 

@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Dethanker/DataSharingSystem/cmd"
+	"github.com/chwzx/DataSharingSystem/cmd"
 	"github.com/urfave/cli"
 )
 

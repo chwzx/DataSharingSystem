@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/Dethanker/DataSharingSystem/config"
-	"github.com/Dethanker/DataSharingSystem/mpc_node"
+	"github.com/chwzx/DataSharingSystem/config"
+	"github.com/chwzx/DataSharingSystem/mpc_node"
 	"github.com/urfave/cli"
 )
 
